@@ -11,7 +11,10 @@ I'm **Abdullahi Mohammed**, a student at Brigham Young University-Idaho interest
 - 🔭 I'm currently working on building full-stack web applications and sharpening my software engineering skills
 - 🌱 I'm currently learning cloud computing, machine learning, and modern web frameworks
 - 👯 I'm looking to collaborate on open-source projects and innovative software solutions
+- 🤔 I'm looking for help with advanced algorithms and system design patterns
 - 💬 Ask me about Python, JavaScript, web development, and data structures
+- 📫 How to reach me: open an issue on this repo or connect via the links below
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving algorithmic challenges and exploring new technologies
 
 ---
