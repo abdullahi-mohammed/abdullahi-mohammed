@@ -40,9 +40,9 @@ I'm **Abdullahi Mohammed**, a student at Brigham Young University-Idaho interest
 
 ## GitHub Stats
 
-![Abdullahi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahi-mohammed&show_icons=true&theme=radical&hide_border=true)
+![Abdullahi's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdullahi-mohammed&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahi-mohammed&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=abdullahi-mohammed&layout=compact&theme=radical&hide_border=true)
 
 ---
 
