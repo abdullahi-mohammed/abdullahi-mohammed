@@ -48,7 +48,7 @@ I'm **Abdullahi Mohammed**, a student at Brigham Young University-Idaho interest
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-mohammed-website-developer/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/your-twitter-handle](https://x.com/techie_devv))
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
