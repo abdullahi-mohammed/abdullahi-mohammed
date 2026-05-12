@@ -42,7 +42,7 @@ I'm **Abdullahi Mohammed**, a student at Brigham Young University-Idaho interest
 
 ![Abdullahi's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdullahi-mohammed&show_icons=true&theme=radical&hide_border=true)
 
-[![Abdullahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/abdullahi-mohammed)   
+[![Abdullahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahi-mohammed)](https://github.com/abdullahi-mohammed)   
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=abdullahi-mohammed&layout=compact&theme=radical&hide_border=true)
 
@@ -51,6 +51,6 @@ I'm **Abdullahi Mohammed**, a student at Brigham Young University-Idaho interest
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-mohammed-website-developer/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/your-twitter-handle](https://x.com/techie_devv))
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/techie_devv)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
